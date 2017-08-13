@@ -1,3 +1,6 @@
+*This is a part of the Deep learning Nano degree from Udacity. I created this as a project for DLND.*
+
+
 **Implementing the graph structure of a neural net in Miniflow**
 
 ***MiniFlow has two methods to help you define and then run values through your graphs: topological_sort() and forward_pass().***
